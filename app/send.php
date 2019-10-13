@@ -11,7 +11,8 @@
 <input type="text" name="user_name">
 <label>趣味</label>
 <input type="text" name="hobby">
-<input type="submit" value="確認する">
+<input type="submit" value="送信する">
+
 </form>
 
 
